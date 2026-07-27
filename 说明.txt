@@ -125,6 +125,8 @@ Hypixel
 
 	v1.6.0 修改选择职业的物品为对应的皮肤头颅,为新更新的界面提供纹理更新,修复了力量弓纹理冲突的bug,放大了补给品及手持显示,新添加了彩虹箭头覆盖显示测试 2024/7/10
 
+	v1.6.1 修复本材质包加载bug，现在无需解压即可加载 2026/7/27
+
 ----------------------------------------------------------------------------------------
 
 (Machine translation) Textures supports Chinese and English server languages, and the current functions are:
